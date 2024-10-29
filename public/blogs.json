@@ -1,0 +1,52 @@
+[
+    {
+        "id": "001",
+        "cover": "https://i.ibb.co.com/F71BLdw/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "Whispers of the Abyss",
+        "author": "Elena Frost",
+        "author_img": "https://example.com/author1.jpg",
+        "posted_date": "2023-10-01",
+        "reading_time": "5",
+        "hashtags": ["#Fantasy", "#Adventure", "#Mystery"]
+    },
+    {
+        "id": "002",
+        "cover": "https://i.ibb.co.com/SRCfLC4/Screenshot-2024-10-29-062451.png",
+        "title": "The Last Ember",
+        "author": "Jasper Lane",
+        "author_img": "https://example.com/author2.jpg",
+        "posted_date": "2023-10-15",
+        "reading_time": "7",
+        "hashtags": ["#SciFi", "#Dystopian", "#Survival"]
+    },
+    {
+        "id": "003",
+        "cover": "https://i.ibb.co.com/jwcVj7J/front-view-people-having-meeting-office.jpg",
+        "title": "Echoes of the Past",
+        "author": "Maya Rivers",
+        "author_img": "https://example.com/author3.jpg",
+        "posted_date": "2023-10-20",
+        "reading_time": "6",
+        "hashtags": ["#Historical", "#Drama", "#LoveStory"]
+    },
+    {
+        "id": "004",
+        "cover": "https://i.ibb.co.com/QCs0sPx/Screenshot-2024-10-29-062520.png",
+        "title": "Cyber Shadows",
+        "author": "Theo Grant",
+        "author_img": "https://example.com/author4.jpg",
+        "posted_date": "2023-10-05",
+        "reading_time": "8",
+        "hashtags": ["#Thriller", "#Tech", "#Mystery"]
+    },
+    {
+        "id": "005",
+        "cover": "https://i.ibb.co.com/f4Fvn23/Screenshot-2024-10-29-062537.png",
+        "title": "Songs of the Sea",
+        "author": "Lila Morgan",
+        "author_img": "https://example.com/author5.jpg",
+        "posted_date": "2023-10-12",
+        "reading_time": "4",
+        "hashtags": ["#Poetry", "#Nature", "#Inspiration"]
+    }
+]
